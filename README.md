@@ -5,8 +5,8 @@ Calculadora Imobiliária
 Prática em Grupo
 
 Desenvolva uma API que receba uma:
-Casa com seu "nome", "endereço" e uma lista de "cômodos".
-Comodo deve conter os atributos: ”nome", "largura" e "comprimento".
+Casa com seu "nome", "endereço" e uma lista de "cômodos". Comodo deve conter os atributos: ”nome", "largura" e "
+comprimento".
 
 Como requisito funcional é solicitado que a API:
 
